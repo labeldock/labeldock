@@ -6,7 +6,6 @@
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
 
 [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
-[![VitePress](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=VitePress&logoColor=white)](https://vitepress.dev)
 [![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev)
 [![Lit](https://img.shields.io/static/v1?style=for-the-badge&message=Lit&color=324FFF&logo=Lit&logoColor=FFFFFF&label=)](https://lit.dev/)
