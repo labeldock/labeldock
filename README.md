@@ -1,4 +1,5 @@
-### My lovable hustle
+### [💎 My lovable hustle](https://codetrace.com/users/labeldock)
+
 
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/ko)
 [![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
@@ -18,4 +19,3 @@
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/engine/swarm/)
 [![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)](https://www.wireguard.com/)
 
-<a href="https://codetrace.com/users/labeldock"><img src="https://codetrace.com/widget/labeldock" width="220" height="50" /></a>
