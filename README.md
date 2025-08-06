@@ -15,6 +15,7 @@
 [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=fff)](https://supabase.com/)
 [![n8n](https://img.shields.io/badge/N8N-orange?style=for-the-badge)](https://n8n.io/)
 [![QWEN](https://img.shields.io/badge/QWEN-0F1689?style=for-the-badge)](https://ollama.com/library/qwen3)
+[![MCP](https://img.shields.io/badge/MCP-EEA500?style=for-the-badge)](https://github.com/modelcontextprotocol)
 
 [![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
 [![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/)
