@@ -1,6 +1,5 @@
 ### [💎 My lovable hustle](https://codetrace.com/users/labeldock)
 
-
 [![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
 [![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)](https://bun.sh/)
 [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
@@ -12,8 +11,6 @@
 [![Hono](https://img.shields.io/badge/hono-E36002?style=for-the-badge&logo=hono&logoColor=white)](https://hono.dev/)
 [![Petite-vue](https://img.shields.io/badge/petite_vue-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://github.com/vuejs/petite-vue)
 
-[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=fff)](https://supabase.com/)
-[![n8n](https://img.shields.io/badge/N8N-orange?style=for-the-badge)](https://n8n.io/)
 [![QWEN](https://img.shields.io/badge/QWEN-0F1689?style=for-the-badge)](https://ollama.com/library/qwen3)
 [![MCP](https://img.shields.io/badge/MCP-EEA500?style=for-the-badge)](https://github.com/modelcontextprotocol)
 
